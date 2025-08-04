@@ -1,2 +1,4 @@
 # Learning-FastAPI
-Init
+
+uvicorn app.main:app --reload
+
